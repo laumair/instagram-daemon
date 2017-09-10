@@ -1,0 +1,12 @@
+# WoRKSPACES
+# ===========
+.idea
+npm-debug.log
+node_modules
+*.iml
+
+# OS
+# ===========
+.DS_Store
+ehthumbs.db
+Thumbs.db
